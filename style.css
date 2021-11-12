@@ -1,0 +1,70 @@
+body{
+  background-image: url('Img/background.jpg');
+  background-size: cover;
+  font-family: "Brush Script MT";
+}
+
+.Container{
+  background-color:rgba(0, 0, 0, 0.5);
+  margin: 2% 18% 0% 18%;
+  border-radius: 2%;
+  padding-bottom: 7%;
+}
+
+header{
+  text-align: center;
+  padding: 0% 9%;
+}
+
+#logo{
+  width: 27%;
+  padding-top: 9%;
+}
+
+h1{
+  color: #00dd00;
+  line-height: 20%;
+}
+
+.button_bar{
+  background-color: #00dd00;
+}
+
+button{
+  margin: 1% 0%;
+}
+
+main{
+  color: white;
+}
+
+.Monopattini{
+  padding: 2% 0% 0% 9%;
+  line-height: 150%;
+  font-size: 110%;
+}
+
+span{
+  font-size: 135%;
+  font-weight: bold;
+}
+
+.Battery{
+  border-radius: 5px;
+  padding: 0.2%;
+}
+
+.first{
+  background-color: #f5b453;
+  width: 33%;
+}
+
+.second{
+  background-color: #1ec31e;
+  width: 55%;
+}
+
+.third{
+  background-color: #be4141;
+  width: 12%;
+}
